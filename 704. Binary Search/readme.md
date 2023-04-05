@@ -23,3 +23,5 @@ You must write an algorithm with O(log n) runtime complexity.
 - -104 < nums[i], target < 104
 - All the integers in nums are unique.
 - nums is sorted in ascending order.
+
+**URL:** https://leetcode.com/problems/binary-search/
